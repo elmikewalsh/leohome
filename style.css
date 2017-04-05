@@ -1,0 +1,57 @@
+/*
+Theme Name: Leo Home
+Theme URI: http://imaginalgo.com/en/portfolio/tema-wp-leohome/
+Original Author: Leo Babauta
+Author: Imaginalgo (Mike Walsh)
+Original Author URI: http://leobabauta.com
+Author URI: http://imaginalgo.com
+Description: The minimalist personal website design of zenhabits author Leo Babauta at leobabauta.com. For help please see <a href="http://leo.imaginalgo.com/install-this-leohome/">the documentation</a>.
+Version: 1.0
+License: Uncopyrighted
+License URI: http://zenhabits.net/open-source-blogging-feel-free-to-steal-my-content/
+
+This theme is uncopyrighted.
+Do whatever you'd like with it.
+*/
+#leo {margin:0;padding:0;}
+#leo dt {width:5em;}
+#leo ul, .footer ul {padding-left:0px;}
+#leo ul li {list-style: none; padding-left:0px;margin-left:0px;line-height:1.5;}
+#leo ul li a {vertical-align:top;} 
+.before-desc {float:left;width:105px;word-wrap:break-word;clear:both;margin-left:0px;}
+
+body {background:#fff; font-family: helvetica-neue, helvetica, sans-serif; font-size: 1em; line-height: .1em; float: left; width:580px; margin-top:65px; margin-left:64px;}
+
+p {line-height: 1.4em;}	
+h2 {font-size: 1.4em; color:#333; line-height:28px; font-weight:normal;}
+h2 a:link {border-style: none;}
+h3, .footer {font-weight:normal; font-size: .9em; color:#303030; line-height:2.8em;}
+h3 a:link, .footer a:link {border-style: none;}
+.footer ul li a{display:inline-block;}
+.footer li {list-style: none; text-transform: lowercase;display:inline-block;}
+
+.menu-divider {margin:0;padding:0 2px 0 0;color: #333333;}
+li.menu-divider:last-child {display:none;}
+
+pre {line-height:1.4em}
+
+ol {margin:1em 0 2em 0;}
+li {line-height: 1.5em;}
+
+a:link {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none solid none; border-color: #C0C0C0;}
+a:visited {color: #303030; text-decoration: none; border-width: 0 0 1px 0; border-style: none none none non; border-color: #C0C0C0;}
+a:hover {color: #999; border-width: 0 0 1px 0; border-style: none none none non; border-color: #C0C0C0; text-decoration: none;}
+
+dl {
+ width:100%;
+ overflow:hidden;
+}
+dt {
+ float:left;
+ width:50%;
+}
+dd {
+ float:left;
+ width:50%;
+ margin-left:40px;
+}
